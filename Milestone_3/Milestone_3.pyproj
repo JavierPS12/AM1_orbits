@@ -21,6 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Auxiliar_M3_v1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Auxiliar_M3_v2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Milestone_3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
