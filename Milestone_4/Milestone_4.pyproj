@@ -21,17 +21,17 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Module1_M3.py">
+    <Compile Include="Module1_M4.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Milestone_4.py" />
-    <Compile Include="Module2_M3.py">
+    <Compile Include="Module2_M4.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Module3_M3.py">
+    <Compile Include="Module3_M4.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Module4_M3.py">
+    <Compile Include="Module4_M4.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
