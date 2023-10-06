@@ -123,9 +123,9 @@ if eleccion == 1:
 	plt.ylim( [ -1.15 , 1.15  ])
 	plt.xlim( [ -1.15 , 1.15 ] )
 	plt.plot( x , y , color = 'b')
-	plt.title(r'\textbf{Órbita}', loc = "center", fontdict = {'fontsize':14, 'color':'k'})
-	plt.ylabel("$y$ (m)", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
-	plt.xlabel("$x$ (m)", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
+	plt.title(r'\textbf{Órbita} (Método de Euler)', loc = "center", fontdict = {'fontsize':14, 'color':'k'})
+	plt.ylabel("$y$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
+	plt.xlabel("$x$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
 	plt.show()
 	
 	
@@ -151,9 +151,9 @@ elif eleccion == 2:
 	plt.ylim( [ -1.15 , 1.15  ])
 	plt.xlim( [ -1.15 , 1.15 ] )
 	plt.plot( x , y , color = 'b')
-	plt.title(r'\textbf{Órbita}', loc = "center", fontdict = {'fontsize':14, 'color':'k'})
-	plt.ylabel("$y$ (m)", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
-	plt.xlabel("$x$ (m)", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
+	plt.title(r'\textbf{Órbita} (Método Crank-Nicolson)', loc = "center", fontdict = {'fontsize':14, 'color':'k'})
+	plt.ylabel("$y$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
+	plt.xlabel("$x$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
 	plt.show()
 
 
@@ -181,9 +181,9 @@ elif eleccion == 3:
 	plt.ylim( [ -1.15 , 1.15  ])
 	plt.xlim( [ -1.15 , 1.15 ] )
 	plt.plot( x , y , color = 'b')
-	plt.title(r'\textbf{Órbita}', loc = "center", fontdict = {'fontsize':14, 'color':'k'})
-	plt.ylabel("$y$ (m)", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
-	plt.xlabel("$x$ (m)", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
+	plt.title(r'\textbf{Órbita} (Método Runge-Kutta 4)', loc = "center", fontdict = {'fontsize':14, 'color':'k'})
+	plt.ylabel("$y$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
+	plt.xlabel("$x$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
 	plt.show()
 
 
