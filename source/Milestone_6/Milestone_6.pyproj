@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>e5c3c9dd-51ce-47fb-bfb7-9192b647ed18</ProjectGuid>
+    <ProjectGuid>1cf759cf-e367-4522-9c56-4ab52895ada5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Hito_1.py</StartupFile>
+    <StartupFile>Milestone_6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Hito_1</Name>
-    <RootNamespace>Hito_1</RootNamespace>
+    <Name>Milestone_6</Name>
+    <RootNamespace>Milestone_6</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,14 +21,17 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Hito_1.py" />
-    <Compile Include="Hito_1_Euler.py">
+    <Compile Include="Milestone_6.py" />
+    <Compile Include="Module1_M6.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Hito_1_RK4.py">
+    <Compile Include="Module2_M6.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Hito_1_CraNic.py">
+    <Compile Include="Module3_M6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Module4_M6.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

@@ -17,11 +17,10 @@ from numpy import array, zeros, linspace
 def Cauchy_Problem( F, t, U_0, Temporal_Scheme ): 
 
     N =  len(t)-1
-    Ndim = len(U_0)
-    U = zeros( ( N+1, Ndim ) )
-    Force = zeros( ( N+1, Ndim ) )
+    N_var = len(U_0)
+    U = zeros( ( N+1, N_var ) )
 
-    U[ 0, : ] = U_0
+    U[ 0, : ] = U_0 # Al revés
 
     for n in range(N):
 

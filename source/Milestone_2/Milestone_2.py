@@ -20,7 +20,6 @@ from Orbits import Kepler_Equation, Kepler_Force
 
 from numpy import array, zeros, linspace
 import matplotlib.pyplot as plt
-import sys
 
 
 print( "" )
@@ -126,10 +125,10 @@ plt.rcParams.update({
     "font.serif": ["Computer Modern Roman"],
 })
 plt.axis("equal")
-plt.grid( axis = 'both' , color = 'gainsboro' , linestyle = 'solid' )
+plt.grid( axis = 'both' , color = 'gainsboro' , linestyle = 'none' )
 #plt.ylim( [ -1 , 1 ] )
 #plt.xlim( [ -1 , 1 ] )
-plt.plot( U[:,0] , U[:,1], color = 'b' )
+plt.plot( U[:,0] , U[:,1], color = 'b')
 plt.title(r'\textbf{Órbita}', loc = "center", fontdict = {'fontsize':14, 'color':'k'})
 plt.ylabel("$y$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
 plt.xlabel("$x$", fontdict = {'fontsize':12, 'fontweight':'normal', 'color':'k'})
