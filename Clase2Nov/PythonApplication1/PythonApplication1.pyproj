@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>4248ebda-f9da-4ec9-a9f1-a0ef80036a2a</ProjectGuid>
+    <ProjectGuid>8be88dd3-43ab-49af-addc-4e1a01a0892f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Milestone_3.py</StartupFile>
+    <StartupFile>Stability_Region.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Milestone_3</Name>
-    <RootNamespace>Milestone_3</RootNamespace>
+    <Name>PythonApplication1</Name>
+    <RootNamespace>PythonApplication1</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,17 +21,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Stability_Region.py" />
     <Compile Include="Temporal_Schemes.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Cauchy_Problem.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Milestone_3.py" />
-    <Compile Include="Orbits.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Temporal_Error.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
