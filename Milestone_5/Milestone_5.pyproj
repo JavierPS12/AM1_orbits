@@ -22,13 +22,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Milestone_5.py" />
-    <Compile Include="Module1_M5.py">
+    <Compile Include="Temporal_Schemes.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Module2_M5.py">
+    <Compile Include="Cauchy_Problem.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Module3_M5.py">
+    <Compile Include="N_Body.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Module4_M5.py">
