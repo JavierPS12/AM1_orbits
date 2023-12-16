@@ -6,7 +6,7 @@
 
 from numpy import zeros, linspace, abs, float64
 
-def Stability_Region(Scheme, N, x0, xf, y0, yf): 
+def Region_Estabilidad(Scheme, N, x0, xf, y0, yf): 
 
     x = linspace( x0, xf, N )
     y = linspace( y0, yf, N )
