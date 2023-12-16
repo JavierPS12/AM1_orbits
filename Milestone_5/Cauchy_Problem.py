@@ -20,7 +20,7 @@ def Cauchy_Problem( F, t, U_0, Temporal_Scheme ):
     N_var = len(U_0)
     U = zeros( ( N+1, N_var ) )
 
-    U[ 0, : ] = U_0 # Al revés
+    U[ 0, : ] = U_0
 
     for n in range(N):
 
