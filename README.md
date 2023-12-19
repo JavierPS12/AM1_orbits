@@ -1,4 +1,5 @@
-# AM1_orbits
+# AMPLIACIÓN DE MATEMÁTICAS 1 (AM1_orbits)
+# 
 Javier Pueyo Serrano
 
 1. Primer nivel
