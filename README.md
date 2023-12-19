@@ -3,6 +3,7 @@ MÁSTER UNIVERSITARIO EN SISTEMAS ESPACIALES
 
 Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 
+El repositorio de Ampliación de Matemáticas está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo "Milestones_JavierPueyoSerrano.py", ya que éste redirige a todos los demás hitos mediante un _input_
 1. Primer nivel
    - Elemento 1
    - Elemento 2
