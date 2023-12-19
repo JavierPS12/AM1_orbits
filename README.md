@@ -1,6 +1,8 @@
 # AMPLIACIÓN DE MATEMÁTICAS 1 (AM1_orbits)
 MÁSTER UNIVERSITARIO EN SISTEMAS ESPACIALES
+
 Javier Pueyo Serrano
+
 javier.pueyo.serrano@alumnos.upm.es
 
 1. Primer nivel
