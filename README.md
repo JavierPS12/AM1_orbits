@@ -13,13 +13,13 @@ El repositorio donde se han ido desarrollando los Milestone se encuentran en la 
 
 Dentro de la carpeta sources hay diferentes carpetas que se detallan a continuación:
 
-1) Error: esta carpeta contiene el método de Richarson.
+1. Error: esta carpeta contiene el método de Richarson.
 
-2) Methods: contiene toda la información relativa a:
+2. Methods: contiene toda la información relativa a:
 
-        a) Esquemas temporales: Euler, Euler Implícito, Runge Kutta, Crank Nicolson y Leap Frog.
+        1. Esquemas temporales: Euler, Euler Implícito, Runge Kutta, Crank Nicolson y Leap Frog.
 
-        b) Problema de Cauchy.
+        2. Problema de Cauchy.
 
         c) Runge Kutta embebido.
 
