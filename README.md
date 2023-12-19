@@ -1,9 +1,7 @@
 # AMPLIACIÓN DE MATEMÁTICAS 1 (AM1_orbits)
 MÁSTER UNIVERSITARIO EN SISTEMAS ESPACIALES
 
-Javier Pueyo Serrano
-
-javier.pueyo.serrano@alumnos.upm.es
+Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 
 1. Primer nivel
    - Elemento 1
@@ -20,7 +18,6 @@ javier.pueyo.serrano@alumnos.upm.es
 
 
 
-El repositorio donde se han ido desarrollando los Milestone se encuentran en la carpeta:  SOURCES.
 
 Dentro de la carpeta sources hay diferentes carpetas que se detallan a continuación:
 
