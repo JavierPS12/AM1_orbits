@@ -1,6 +1,7 @@
 # AMPLIACIÓN DE MATEMÁTICAS 1 (AM1_orbits)
-# 
+MÁSTER UNIVERSITARIO EN SISTEMAS ESPACIALES
 Javier Pueyo Serrano
+javier.pueyo.serrano@alumnos.upm.es
 
 1. Primer nivel
    - Elemento 1
@@ -13,12 +14,8 @@ Javier Pueyo Serrano
      - Viñeta anidada
        - ¡Más anidación!
 
-Ante cualquier duda o problema ejecutando los hitos, envíame un correo: javier.pueyo.serrano@alumnos.upm.es
-# REPOSITORIO AMPLIACION DE MATEMATICAS I
-MASTER UNIVERSITARIO DE SISTEMAS ESPCIALES
 
-Nombre: Sandra Domínguez Gómez
-### DESCRIPCION REPOSITORIO
+
 
 
 El repositorio donde se han ido desarrollando los Milestone se encuentran en la carpeta:  SOURCES.
