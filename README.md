@@ -3,7 +3,14 @@ MÁSTER UNIVERSITARIO EN SISTEMAS ESPACIALES
 
 Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 
-El repositorio de Ampliación de Matemáticas está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo "Milestones_JavierPueyoSerrano.py", ya que éste redirige a todos los demás hitos mediante un _input_
+El repositorio de Ampliación de Matemáticas 1 está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo "Milestones_JavierPueyoSerrano.py", ya que éste redirige a todos los demás hitos mediante un _input_ en el que hay que introducir el número de hito que se desea ejecutar.
+
+Cada uno de los hitos particulares fundamentalmente contienen llamadas a otros módulos, ordenados en carpetas:
+1. __Maths_Equations__
+   - Eq_Systems contiene una función para calcular el Jacobiano.
+   - Stochastic contiene dos funciones para representar los procesos de Wiener y Ornstein-Uhlenbeck (relacionados con el Hito 7).
+   - VanDerPol contiene el operador diferencial del oscilador de Van Der Pol con diferentes condiciones de perturbación (relacionado con el Hito 7).
+2. __Maths_ODEs__
 1. Primer nivel
    - Elemento 1
    - Elemento 2
