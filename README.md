@@ -5,6 +5,9 @@ Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 
 El repositorio de __Ampliación de Matemáticas 1__ está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo _"Milestones_JavierPueyoSerrano.py"_, ya que éste redirige a todos los demás hitos mediante un _input_ en el que hay que introducir el número de hito que se desea ejecutar.
 
+La __estructura jerárquica__ puede apreciarse en la siguiente imagen:
+![](Escudo_ETSIAE.png)
+
 Cada uno de los hitos particulares fundamentalmente contiene _llamadas_ a otros módulos, ordenados en carpetas:
 1. __Maths_Equations__
    - Eq_Systems contiene una función para calcular el Jacobiano.
@@ -28,5 +31,3 @@ Los hitos están estructurados de la siguiente manera:
 1. Primero se importan todos los módulos y funciones internas de Python que se emplearán.
 2. Se desarrolla el hito propiamente según el contenido solicitado.
 3. Se realizan las representaciones gráficas pertinentes.
-
-![](Escudo_ETSIAE.png)
