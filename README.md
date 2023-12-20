@@ -6,8 +6,6 @@ Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 El repositorio de __Ampliación de Matemáticas 1__ está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo _"Milestones_JavierPueyoSerrano.py"_, ya que éste redirige a todos los demás hitos mediante un _input_ en el que hay que introducir el número de hito que se desea ejecutar.
 
 La __estructura jerárquica__ puede apreciarse en la siguiente imagen:
-![](Escudo_ETSIAE.png)
-
 <p align="center">
   <img src=".\Escudo_ETSIAE.png" alt="Descripción de la imagen">
 </p>
