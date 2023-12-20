@@ -5,7 +5,7 @@ Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 
 El repositorio de __Ampliación de Matemáticas 1__ está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo _"Milestones_JavierPueyoSerrano.py"_, ya que éste redirige a todos los demás hitos mediante un _input_ en el que hay que introducir el número de hito que se desea ejecutar.
 
-Cada uno de los hitos particulares fundamentalmente contienen llamadas a otros módulos, ordenados en carpetas:
+Cada uno de los hitos particulares fundamentalmente contiene _llamadas_ a otros módulos, ordenados en carpetas:
 1. __Maths_Equations__
    - Eq_Systems contiene una función para calcular el Jacobiano.
    - Stochastic contiene dos funciones para representar los procesos de Wiener y Ornstein-Uhlenbeck (relacionados con el Hito 7).
