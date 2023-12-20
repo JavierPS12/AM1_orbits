@@ -9,7 +9,7 @@ La __estructura jerárquica__ puede apreciarse en la siguiente imagen:
 ![](Escudo_ETSIAE.png)
 
 <p align="center">
-  <img src="Escudo_ETSIAE.png" alt="Descripción de la imagen">
+  <img src=".\Escudo_ETSIAE.png" alt="Descripción de la imagen">
 </p>
 
 Cada uno de los hitos particulares fundamentalmente contiene _llamadas_ a otros módulos, ordenados en carpetas:
