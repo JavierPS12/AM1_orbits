@@ -8,6 +8,10 @@ El repositorio de __Ampliación de Matemáticas 1__ está estructurado del sigui
 La __estructura jerárquica__ puede apreciarse en la siguiente imagen:
 ![](Escudo_ETSIAE.png)
 
+<p align="center">
+  <img src="Escudo_ETSIAE.png" alt="Descripción de la imagen">
+</p>
+
 Cada uno de los hitos particulares fundamentalmente contiene _llamadas_ a otros módulos, ordenados en carpetas:
 1. __Maths_Equations__
    - Eq_Systems contiene una función para calcular el Jacobiano.
