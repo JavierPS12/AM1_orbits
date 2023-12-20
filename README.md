@@ -5,6 +5,8 @@ Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 
 El repositorio de __Ampliación de Matemáticas 1__ está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo _"Milestones_JavierPueyoSerrano.py"_ dentro de la Carpeta Milestones_JavierPueyoSerrano, ya que éste redirige a todos los demás hitos mediante un _input_ en el que hay que introducir el número de hito que se desea ejecutar.
 
+La presentación correspondiente al Milestone 7 está en un archivo .zip por pesar demasiado.
+
 La __estructura jerárquica__ del Milestone 7 puede apreciarse en la siguiente imagen:
 <p align="center">
   <img src=".\Estructura.png" alt="Descripción de la imagen">
