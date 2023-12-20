@@ -28,3 +28,5 @@ Los hitos están estructurados de la siguiente manera:
 1. Primero se importan todos los módulos y funciones internas de Python que se emplearán.
 2. Se desarrolla el hito propiamente según el contenido solicitado.
 3. Se realizan las representaciones gráficas pertinentes.
+
+![](/Escudo_UPM.pdf)
