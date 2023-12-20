@@ -3,9 +3,9 @@ MÁSTER UNIVERSITARIO EN SISTEMAS ESPACIALES
 
 Javier Pueyo Serrano (javier.pueyo.serrano@alumnos.upm.es)
 
-El repositorio de __Ampliación de Matemáticas 1__ está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo _"Milestones_JavierPueyoSerrano.py"_, ya que éste redirige a todos los demás hitos mediante un _input_ en el que hay que introducir el número de hito que se desea ejecutar.
+El repositorio de __Ampliación de Matemáticas 1__ está estructurado del siguiente modo: simplemente es necesario ejecutar el archivo _"Milestones_JavierPueyoSerrano.py"_ dentro de la Carpeta Milestones_JavierPueyoSerrano, ya que éste redirige a todos los demás hitos mediante un _input_ en el que hay que introducir el número de hito que se desea ejecutar.
 
-La __estructura jerárquica__ puede apreciarse en la siguiente imagen:
+La __estructura jerárquica__ del Milestone 7 puede apreciarse en la siguiente imagen:
 <p align="center">
   <img src=".\Estructura.png" alt="Descripción de la imagen">
 </p>
@@ -28,8 +28,3 @@ Cada uno de los hitos particulares fundamentalmente contiene _llamadas_ a otros 
    - Animation contiene el algoritmo para realizar animaciones GIF de las representaciones gráficas.
    - Graphics contiene el algoritmo para realizar representaciones bidimensionales y tridimensionales.
    - Histogram contiene los algoritmos para dibujar histogramas bidimensionales (mediante códigos de colores) y tridimensionales (mediante barras).
-
-Los hitos están estructurados de la siguiente manera:
-1. Primero se importan todos los módulos y funciones internas de Python que se emplearán.
-2. Se desarrolla el hito propiamente según el contenido solicitado.
-3. Se realizan las representaciones gráficas pertinentes.
