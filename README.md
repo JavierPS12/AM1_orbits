@@ -29,4 +29,4 @@ Los hitos están estructurados de la siguiente manera:
 2. Se desarrolla el hito propiamente según el contenido solicitado.
 3. Se realizan las representaciones gráficas pertinentes.
 
-![](/Escudo_UPM.pdf)
+![](Escudo_UPM.pdf)
