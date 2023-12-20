@@ -7,7 +7,7 @@ El repositorio de __Ampliación de Matemáticas 1__ está estructurado del sigui
 
 La __estructura jerárquica__ puede apreciarse en la siguiente imagen:
 <p align="center">
-  <img src=".\Escudo_ETSIAE.png" alt="Descripción de la imagen">
+  <img src=".\Estructura.png" alt="Descripción de la imagen">
 </p>
 
 Cada uno de los hitos particulares fundamentalmente contiene _llamadas_ a otros módulos, ordenados en carpetas:
